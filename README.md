@@ -1,0 +1,2 @@
+# meuDingo
+gerenciador de gastos
